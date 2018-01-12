@@ -15,7 +15,7 @@ permalink: /about/
         <li>Front-end Web Development</li>
         <li>Back-end Application Development</li>
         <li>Data Science (specifically information retrieval methods)</li>
-        <li>Embedded Systems Development (Mostly microcontrollers)</li>
+        <li>Embedded Systems Development (Mostly microcontrollers and Unix systems)</li>
     </ul>
     <br>
     <p>&emsp;&emsp;The purpose of this blog is to post updates on any projects, books and developments in the industry. I see this as a good way for me to commit to tasks I start, since I have a habit of abandoning projects prematurely. To anyone interested my resume (pdf) is linked below and my github holds most of my projects</p>
@@ -23,5 +23,5 @@ permalink: /about/
 <br>
 <hr>
 <br>
-<p align="center" markdown="1">[Resume](/JosephMoussaResume.pdf) | [GitHub](www.github.com/jmoussa)</p>
+<p align="center" markdown="1">[Resume](/JosephMoussaResume.pdf) | [GitHub](https://www.github.com/jmoussa)</p>
 

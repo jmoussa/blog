@@ -1,0 +1,15 @@
+---
+layout: post
+title: "cron.d"
+date: 2018-1-3 02:01:39 -0500
+categories: jekyll update
+---
+
+### Happy New Year!
+
+That's a lie, I don't really give a crap about the new year. I see it as another arbitrary date. 
+Now that we got that out of the way a small update on my current situation.
+
+I'm currently working full time for the next two weeks because of winter break. My online hour register hasn't reflected that so I forsee another tussle with my higher ups to get some backpay afterwards. One bad thing about working in a large company is the beaurecracy of getting things done. It's not even as simple as a ticketing system. Don't get me wrong though I love my managers and I think they do a bang up job taking care of me, even if it takes a little longer than expected. I guess that's the problem with this current generation, we're used to instant gratification when that's not how the world works, or even life for that matter. Ok, off of my philosophical soap box.
+
+This week is looking pretty relaxing. My direct manager (aka my source for work/motivation lol) is in China for the next two weeks and all I'm tasked with doing was setting up a failsafe and startup schedule for this Video Content Management System (CMS) to run in the Google Chrome Kiosk application. So naturally (actually not naturally I discovered it by the luck that I've heard it being used before) I decided to setup a cron job for starting up the server and kiosk app. The job just runs the bash scripts I wrote in order to poll if the application is exited (becuase then it will start up again). I realize this isn't the most efficient way to set up considering the application is running most of the time and it will be left polling and not executing. The superior alternative would probably to have an interrupt when that application closes but I can't develop on the application myself and that seems way too in depth for this project. Plus, the way I see it, this mini pc will only have the task of running this very stripped down CMS so performance loss isn't a real issue I figure.
