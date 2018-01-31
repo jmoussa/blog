@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "WTF_RANT.c"
+date:   2018-1-17 02:01:39 -0500
+categories: jekyll update
+---
+
+
+###### Sorry no catchy name this week, I'm just really peeved about professors who know nothing about teaching and very little about their subject
+###### Please skip this blog if you don't want to hear a rant
+
+---
+
+### Lazy (Unqualified?) Professors RANT
+Full disclosure: I have a little experience in the subject that this class is about but I'm trying to speak purely from a student's point of view.
+
+It is not in my nature to question, ridicule or even butcher professors but every so often there comes along an "educator" that makes me question their credentials and the school's credentials for hiring them. Obviously I will not mention names, but I will describe the nature of the class. It is a database technology class, and I've been in it for 2 weeks now. Unfortunately I have yet to take away anything beneficial about how this course is taught and exactly what I am supposed to be learning. The professor seems to be lost in her own class and showed a clear difficulty getting her point across. In a nutshell she doesn't lecture, as much as she (struggles) to read the words on the powerpoint that I assume she wrote. 
+
+After doing some research on her (linkedin) I found that she has only been employed as an analyst overseas. She definitely worked at a respectable corperation (I'm purposefully not mentioning the name) but it was in Singapore as a "Business System Analyst". Yea, you heard that right, not one thing to do with databases. This leads me to believe she worked as a "consultant" and didn't actually have any hands on experience with developing and maintaining databases. What's even funnier is that throughout the class we allude to a database administrator like that's the role that we are preparing for with this class (which is very understandable). In reality she is far from the realm of a DBA and has no business teaching this class. This explains why she has such difficulty with the material. Looking at her education I can see she graduated with a focus on Data Analytics and Business Analysis so that shows why she might have been considered. Her most recent job however was a 4 month internship as a data analyst... by that logic I should be a software development/networking professor this semester.
+
+To try and put things in perspective, a good friend of mine gave a spectacular analogy for what's going on. He said its like someone who works strictly in UX is teaching a web deveopment course. Sure they are exposed to some of the technical aspects but most of their work is not directly related to the subject at hand. The readings (3 texbooks btw) are all aimed at preparing to become a database administrator or simply to design and implement a database. From what I can tell about this professor she has the design part down but is severely lacking in implementation. But this isn't her fault, it's the university's fault for mismatching her to this course
+
+Given her background though I cannot be surprised at the direction the course is going. What I am surprised is her blatant ignorance toward communicating with the class. The assignemnts are simply too vague, so anyone can write anything as long as you throw a couple database buzzwords in there you should be fine. The quizzes have no context to them. Usually in any class the instructor will say what type of material is on the quiz (lecture notes, textbook entries, articles, powerpoints, etc.) not here, they're all labelled "Quiz #X" and she simply announces to take the Quiz before monday of next week with zero information about what's actually on it. Staying with the topic of communication, I would like to point out beforehand, we went around the class to discuss any experience people had with databases and about 75%-80% of the class never used databases. That being said, she assumes that everyone in the class already knows SQL and database modeling, so every now and then she throws up a bunch of new terminology that are only mentioned in her own slides (not in any of the readings or basic internet definitions). What's bad is that she automatically uses them without definition until we are forced to ask her to which she obviously shows dissappointment. It's quite the mess.
+
+If I were not already pre-exposed to some of the material covered in class I would be totally lost, and I can only imagine how some of my colleagues feel.
+
+--- End Rant ---
