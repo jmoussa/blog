@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WTF_RANT.c"
+title:  "WTFRANT.c"
 date:   2018-1-17 02:01:39 -0500
 categories: jekyll update
 ---
