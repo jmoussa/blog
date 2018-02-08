@@ -10,11 +10,11 @@ So my weekdays I've noticed are well settled and I am able to finish all my scho
 
 ### Weekends
 My weekends are still a mess, granted it's only been a week since I started the new system (see previous post). I'm still managing to work on my personal project, in fact the keylogger is almost complete, just have to implement discrete deployment. The problem is that I'm not getting enought time to work on it (probably because of my sleeping-in dilemma I mentioned earlier). I'm going to try and make morning coffee runs a thing and hopefully things will balance out. 
-I also find myself unable to stay focused on just the keylogger project, since I already have react.js and node/express fresh in my head. I think I might start up a web dev project in parallel with the keylogger since it's not taking up too much time. I just found out about this new site, **Lapa](https://www.lapa.ninja/)**, that gives you layouts for inspiration and figured I can try and recreate some nice UI's from there with react.
+I also find myself unable to stay focused on just the keylogger project, since I already have react.js and node/express fresh in my head. I think I might start up a web dev project in parallel with the keylogger since it's not taking up too much time. I just found out about this new site, ***[Lapa](https://www.lapa.ninja/)***, that gives you layouts for inspiration and figured I can try and recreate some nice UI's from there with react.
 
 ### Job Hunt
 I've temporarily put my job hunt on hold. I still would like to get out of my current employment and go into a more speicalized field, but I'm through putting all my faith in online applications since it's like trying to win the lottery. I figured I would focus more on networking (with people), my personal projects/portfolio and maybe even do a little bit of freelancing if possible. I also figured I would be staying at my current job until the end of summer, just to close out a year there, so there's no rush.
 
 #### Now offering my services to any followers that need a site
-#### Shoot me an __[email](joeph465@gmail.com)__ or DM me on __[Instagram](https://www.instagram.com/j__moussa/)__
+#### Shoot me an ***[email](joeph465@gmail.com)*** or DM me on ***[Instagram](https://www.instagram.com/j__moussa/)***
 
