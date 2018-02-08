@@ -15,4 +15,6 @@ I also find myself unable to stay focused on just the keylogger project, since I
 ### Job Hunt
 I've temporarily put my job hunt on hold. I still would like to get out of my current employment and go into a more speicalized field, but I'm through putting all my faith in online applications since it's like trying to win the lottery. I figured I would focus more on networking (with people), my personal projects/portfolio and maybe even do a little bit of freelancing if possible. I also figured I would be staying at my current job until the end of summer, just to close out a year there, so there's no rush.
 
-### If anyone has any websites that need building I'm all for helping out (assuming the price is right)
+#### Now offering my services to any followers that need a site
+#### Shoot me an **[email](joeph465@gmail.com)** or DM me on **[Instagram](https://www.instagram.com/j__moussa/)**
+
