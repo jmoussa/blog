@@ -25,6 +25,9 @@ github_username:  jmoussa
 social_link: twitter
 social_username: j__moussa
 
+social_link: instagram
+social_username: j__moussa
+
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
