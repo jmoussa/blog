@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "MLFQ.c"
+date:   2018-2-20 02:01:39 -0500
+categories: jekyll update
+---
+
+
+#### Missed last week's post since I got super busy with assignments
+I figured I'd post today since all my large assignments and exams are over for now and this would signify the 'end' of my week.
+
+### School
+
+I have been extremely unproductive as far as my schoolwork has been. Don't misunderstand, I managed to finish all my assignments on time but only after procrastinating like never before. I don't even know why I was so reluctant to start since the assignments weren't difficult at all, maybe it was becuase I got bombarded with a cluster of large projects all at once. Or maybe I just lacked motivation. No matter, I just submitted the last assignment in this string of due dates and I'm back to the regular workload.
+
+### Personal
+
+This part is probably what hindered my schoolwork to be honest. Unlike my assignments for school, I struck inspiration this week to build a website utilizing the entire stack and implement a database. I don't know why I did it, I just felt a need to put all that I had learned from react, express and (what I was supposed to be learning at school but eventually learned on my own) MySQL. It felt really good and was going swimingly and more importantly it was enjoyable (to an extent). This is probably why I neglected my own schoolwork for the more favorable personal project. Not to mention the personal project literally reflects something I would build in real life so that was an incentive.
+
+
+
+While I was working on the web app, I also looked at some of the business aspects of doing freelance web development work and took the time to outline what my basic contract would entail. I can offically say I am open for clients of any nature who need a website built, and have a legitimate process and workflow designed with the client in mind and focuses on clear communication so that I may satisfy the clients requirements/needs. 
+
+
+
+I'm already trying to line up my dad as a client and create a cloud database and web portal for him to track all of his patient documents in since he apparently can't figure out Microsofts OneDrive for his office. I'm going to be keeping that idea in the back of my head as I finish out this personal project though.
+

@@ -2,7 +2,7 @@
 layout: post
 title: "stress_test.c"
 data: 2018-1-9 02:01:39 -0500
-categories: jekyll updata
+categories: jekyll update
 ---
 
 ### Boss is in China... fun.
