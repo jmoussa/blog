@@ -14,24 +14,16 @@ The inept 'professor' hasn't really changed much, however we're focusing more on
 
 ---
 
-### Personal
-My personal projects seem to be going well. Still brainstorming for my Alexa app, my React/Node/MySQL site has pivoted to become a part of my database class's final project. I think it's for the best since I was just doing a basic template with some arbitrary features and no real goal. This new path is definitely helpful for my learning ReactJS and Databases.
+### Mini RANT
+Just a little blurb about what I see in the ITI (Information Technology & Informatics) major at my school. I see some pretty motivated people overall, people that have already poured their heart and soul into technology and are devoted to either starting their own business or acquiring a job. Some other people, I see... well not that. I don't mean to judge or talk down on them that they are not taking a real interest in their education because everyone's got their own life and their own path. No, what I see is people who have a misguided view that getting the job they want or making a company will be pretty simple, like, it only takes a few weeks. I ask other junior and seniors what they plan on doing, and they respond with 'I don't really know, probably get into software, or become an analyst.' From that response alone I can tell they haven't even begun looking into what they want to do, and they only have 1 year left. Granted a whole lot can happen in one year, but I see people in other majors start getting internships in their field 2 years into college.
+
+
+
+
+I'm not here to look down upon these people, moreso to bring to light that things aren't as simple as you think they are and the IT major specifically doesn't guarantee you anything after college. It is a very broad major and you can get a multitude of jobs with it, but you have to be willing to study on your own and learn more about the specific field you're in, it's not so black and white. You won't be able to apply to any position that has to do with tech by the time you graduate, you have to grow your skills in a specific practice whether it be business and entrepreneurship, software, administration, analytics, consulting etc. There's a lot this major offers, but it doesn't guarantee anything by the end, it's all up to how badly you want it and how badly you want to learn more.
 
 ---
 
-### RANT: The Problem with Bootcamps (with TL;DR)
-So if you ever go on the Internet, and have a slight interest in technology you will see all these 'coding bootcamps' advertised to you telling you that you will 'become a web developer in x months' or 'learn to be a software engineer in y months'. For the most part, the ones that promise you a general profession in a few months are almost always exaggerating it greatly. Unless the companies offering them are Google, Facebook etc. you won't likely be able to get a job right out of the camp. What you *will* be able to do is develop your skills to a point where you can further learn more about the industry and be able to at least start your own projects. From there, you will increase your likelihood of attaining a job in that role.
-
-
-
-I am not necessarily knocking coding bootcamps, I think they are very valuable alternative to a 4 year college degree from the technical aspect. You will definitely learn a lot of useful material needed to get started in the industry. I personally don't think that you will be able to enter with no experience in the industry and then in 6 months (or less) be able to walk out and get a job the next day. The bootcamp simply gives you the basic and necessary skills needed for the industry, from there you have to go off a cultivate them further before people will consider hiring you. 
-
-
-
-I feel that's the same to a certain degree with 4 year computer science degrees, you'll have some projects you worked on in school that might actually get your foot in the door but won't be too relevant to your first position (in my case they weren't too relevant). For the most part though, you will have to spend some time further enhancing your skills, you can't just attend all your classes and do well and get a degree anymore, that's just the bare minimum. In my case, none of my classes touched upon some basic administrative things or tools that were a necessity in the industry, I had to go out and research them and how to use them on my own. The same thing applies for bootcamps, they cant teach you all that in just 6 months, they can give you the barebones essentials that you can't get by yourself (easily). That's why they're great for people who are coming from a completely different field to get caught up and have a decent foundation.
-
-
-
-#### TL;DR
-Bootcamps promise a career when all they give is a foundation for a career, you have to further cultivate your skills gained from them in order to actually get a job. Not saying they're bad at all, just misrepresented.
+### Personal
+My personal projects seem to be going well. Still brainstorming for my Alexa app, my React/Node/MySQL site has pivoted to become a part of my database class's final project. I think it's for the best since I was just doing a basic template with some arbitrary features and no real goal. This new path is definitely helpful for my learning ReactJS and Databases.
 
