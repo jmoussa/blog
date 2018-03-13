@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "s4fe-m0de"
+date:   2018-3-12 02:01:39 -0500
+categories: jekyll update
+---
+
+### School
+
+I'm currently on spring break, which is good since I got swamped with projects right before and I need time to sort through all of this. Classes are still going well, though I was slowly beginning to lose a handle on a few, but luckily spring break saved me. I hope to have a considerable hold on all my projects by the end of break and maybe even try that relaxation thing everyone seems to be talking about
+
+---
+
+### Personal
+
+My personal/databases class project has gone back to a personal project when the 'professor' decided to change 23454563542 details about the project and one of those was the need for a front-end interface. So I'm just creating one for fun and experience with React and building an API. It's going pretty well and I'm enjoying most of the work. At the same time I'm still reading up on things I could add to the application like UI animation with React/CSS as well as Redux, which I am still hesitant and won't implement unless I see a real need for it. I've also began dipping my toe into React-Native development since I'm already halfway there after learning React's general framework. I would like to try and develop a mobile app with it as soon as I finish this current web app, or maybe even start it while I finish up the current project. Either way the future looks exciting. I just have to remind myself I still have schoolwork and assignments, although they are not nearly this complex and about 10x more tedious.
