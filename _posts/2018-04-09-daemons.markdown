@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "da3mons.init.d/"
+date:   2018-4-2 02:01:39 -0500
+categories: jekyll update
+---
+
+### School
+
+Feeling very overwhelmed since there are essentially 3 weeks left in my semester an all my deadlines are beginning to pile on and most of them are incremental, so they are more like checkpoints to the deadlines. It's times like these I'm thankful for my whiteboard, and this blog I guess. So I'll just give a quick update (mainly for myself and my sanity).
+
+
+**Linux+ Certification** Units 9-10 and Journal Entry dur *April 13*
+
+**Writing** 15 pg Proposal due *April 17*
+
+**Databases** Presentation of solution due *April 17*
+
+**Computer Security** Exam 3 *April 23* 
+
+**Digital Hardware Basics** Presentation due *April 30*
+
+Well that made me feel a lot better... kinda.
+
+---
+
+### Personal
+
+I think I've gotten my Expense Report App to an acceptable state, and I'm beginning to look into how I can deploy it.
+One feature I might have to do is create a login and user system since each user should be able to manage their own expenses. The more I look into it the larger it seems, so I will see if there's a way to avoid that, although keeping a public ledger of all expenses, is not ideal.
+For now people will just have to settle for a single user type application that is meant to be cloned and built from source on Github. Assuming anyone would want to use it... although I have to admit I'm pretty proud of the Doughnut Chart in the Output tab.
