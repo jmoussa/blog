@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "htop"
+date:   2018-4-16 02:01:39 -0500
+categories: jekyll update
+---
+
+### School
+
+So last week was relaxing becuase I got my large oral presentation out of the way and roughly finished setting up powerpoints for my other classes.
+This week (mainly today and tomorrow morning) I will be panicking to finish my 15 page research proposal as that is due tomorrow and I roughly have about 5 pages currently. 
+After tomorrow though I will be essentially finished with all my major projects for this semester with two finals left to take.
+I feel like I mentally checked out of school for the past few weeks since I'm focusing on my career path and networking.
+In my mind I'm already done and the only reason I'm still there is for my piece of paper that I deserve after 5 long years.
+
+---
+
+### Personal
+
+I have decided that my Expense Report App is finished, I will not be implementing a login system as that would essentially be a new project on it's own. 
+Currently I'm researching React-Native which is essentially React but for native mobile development, and learning more about how to implement it with Flux. I'm also doing some light research on NoSQL since that seems to be the future. 
+Funny that I would figure that out after taking a database class that focused on MySQL and relational databases.
+I'll probably start a side project with them in a little bit, after I finish finals.
+
+
