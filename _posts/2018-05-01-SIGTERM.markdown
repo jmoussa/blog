@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "SIGTERM"
+date:   2018-5-1 02:01:39 -0500
+categories: jekyll update
+---
+
+### School
+
+Essentially I'm done. All my IT finals were essentially projects or taken on the last day of class, so I've been done with those. My CS final is also not mandatory assuming you have a good enough grade in the class which is what I'm waiting on. 
+Overall, it's been a hell of a ride Rutgers. But I'm glad to finally be done with school and actually focus on my career and development which was just starting to pickup until this semester started. 
+A lot of the work this semester I just saw as busy work that had no real relation to what I was doing for my job.
+A majority of that is still true but I learned a few good lessons and skills here and there.
+I don't think it will ever live up to the ungodly amount of money it costs, but at least I got the whole experience.
+
+---
+
+### Personal
+
+I unwittingly just completed a little message board with secure sockets in python so that was kind of fun. I say unwittingly becuase I started it in half-assed kind of way since my professor said it was going to be graded generously becuase we have so little time to work on it. It actually came out pretty nice and robust if I do say so myself. I had no expectation to even get as far as I did so that's really inspiring and motivating for me. My expense report application has been done, I probably won't revisit it unless there is a serious problem or I actually have a more structured plan of improvement.
+
+I also just got a motorcycle so that's going to be my new form of entertainment. I figured it'd get me out of the house more and make those small trips just a little more fun. Will probably start getting into riding more and might detail some experiences on here as well, now that school is over and my 'personal' life can actually start.
+
