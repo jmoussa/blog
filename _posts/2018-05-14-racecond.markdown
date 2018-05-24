@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "RaC3 c0NditIon"
+date:   2018-5-14 02:01:39 -0500
+categories: jekyll update
+---
+
+### School
+
+Commencement was just yesterday so this section will now be dedicated to my ongoing learning (or kept if I decide to go back for a Masters?) O.o
+
+---
+
+### Work
+
+I normally don't talk about my work because it's completely separate from my personal life but now it's beginning to take more of a priority with my work situation is becoming more complicated as I am no longer a student. 
+I was supposed to be 'promoted' to a full time staff member but right as I am graduating the department is hit with a hiring freeze so that kind of leaves me in limbo, since I can't really be an intern/co-op without a university affiliation.
+I'm currently looking into picking up a beneficial summer class that will keep me affiliated with the university so that I can at least survive this freeze.
+More updates coming soon...
+
+---
+
+### Personal
+
+In other news I have also begun work on my own personal website to display my portfolio as well a a little bit of my skills.
+It will be written in React and I'm going to try and look up some fun new libraries to use with it. 
+This should at least keep my summer interesting.
+
+Moving away from software development, I've also started riding my motorcycle more and more (as the weather gets nicer).
+I'll probably start looking into the community more and ride with friends soon.
+I might even start motovlogging very casually on the side.
