@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello_again.yml"
+title:  "reboot.bios"
 date:   2019-12-17 02:01:39 -0500
 categories: jekyll update
 ---
