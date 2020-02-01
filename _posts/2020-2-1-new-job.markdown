@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "./new_job"
+date:   2020-2-1 02:01:39 -0500
+categories: jekyll update
+---
+
+I'll probably only be updating this when I have a big life event happening.
+
+### Job / Career
+Speaking of life events, I got a new job! 
+As of yesterday I am no longer with Genomic Prediction and starting Monday, I will be a software engineer at The Walt Disney Company in New York.
+Lots of exciting things happening, figuring out the commute and how this effects my routine and budget is the first major thing on my mind, though.
+I'll also be learning a lot more relevant skills at Disney as it'll be structured and focused on software more than bioinformatics.
+At least, these are my first impressions, only time will tell. I'm also working to learn more technologies like Apache Kafka, and more Python and Java based technologies.
+My learning is kind of all over the place now, since I have a solid foundation, it's just a matter of what is the most useful tool for the task, and that'll be what I start picking up.
+
+### Personal Life
+My personal life has kind of been stagnant with all the action really happening with my job and figuring out the transition.
+For the most part everything is the same, I re-did my budget to account for the new compensation I'll be getting as well as looking into what my options are after my lease ends.
+
+I think for the most part I will move back home for a couple months after the lease is up and if no one wants to renew.
+Then around the end of summer if everything is going smoothly at Disney, I will start looking at housing upstate or even in New York.
+I did the math and the commute is roughly 1.5 hours one way, and more importantly it's costing around $7,000 per year, so the more I can cut that down, the better.
+
+I'm also looking in to a used sportbike, I miss having one. I figure I could use the Triumph for long relaxing rides and the sportbike for short little ones.
+It's kind of crazy the idea that I might own 2 bikes, I don't think I ever would've even thought about doing this 3 years ago, but I guess that's just part of the addiction.
+
+<br>
+
+---
+
+<br>
+
+
+#### Some projects I've been working on:
+
++ Consulting for a very early stage startup in the Veterinary Tech space
++ Pick up Apache Kafka and learn how to integrate that
++ The ticket tracking app has now migrated to a kind of toolkit that I could use. I've also switched to a Python backend other than Java and still keeping React+Redux on the front-end.
+
+#### Travel Destinations:
+
++ San Diego / SoCal 
++ San Francisco
++ Colorado
++ Montreal 
++ Iceland
++ England
++ Ohio (for WGI championships, also want to try a long motorcycle trip)
+

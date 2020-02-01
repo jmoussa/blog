@@ -47,7 +47,7 @@ I'm still getting the hang of this whole eating clean thing, but I've been prett
 + San Diego / SoCal 
 + San Francisco
 + Colorado
-+ Montreal (Should probably brush up on my french this thime)
++ Montreal (Should probably brush up on my french this time)
 + Iceland
 + England
 + Ohio (for WGI championships, also want to try a long motorcycle trip)
